@@ -1,0 +1,32 @@
+/*geral*/
+html{
+        font-family: 'open sans' , 'sans-serif';
+    }
+
+    textarea{
+        font-family: 'open sans', 'sans-serif';
+    }
+
+    a{ 
+        transition: .5s;
+    }
+
+h1, h2, h3, p{
+
+    color: #70747a; 
+}
+
+nav{
+    position: relative;
+}
+
+.navbar-content{
+    width: 100px;
+    height: 70px;
+    background-color: #232a31;
+    padding: 0px 2em;
+    position: fixed;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 5px #333;
+    z-index: 99;
+}
